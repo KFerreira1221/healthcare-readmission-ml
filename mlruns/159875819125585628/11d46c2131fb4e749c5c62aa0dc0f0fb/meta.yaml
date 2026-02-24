@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kevin/OneDrive/Desktop/healthcare-readmission-ml/mlruns/159875819125585628/11d46c2131fb4e749c5c62aa0dc0f0fb/artifacts
+end_time: 1771880838800
+entry_point_name: ''
+experiment_id: '159875819125585628'
+lifecycle_stage: active
+run_id: 11d46c2131fb4e749c5c62aa0dc0f0fb
+run_name: delightful-fly-108
+run_uuid: 11d46c2131fb4e749c5c62aa0dc0f0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771880823242
+status: 3
+tags: []
+user_id: Kevin
